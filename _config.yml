@@ -38,7 +38,7 @@ header_pages:
  - important-dates.md 
  - format.md
  - submissions.md
- - editors.md
+ - editorial-board.md
 
 # Build settings
 theme: minima
