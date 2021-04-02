@@ -3,7 +3,6 @@ layout: page
 title: Editors
 permalink: /editors/
 ---
-
 # Editors
 Thuan Nguyen Hoang, RMIT University, thuan.nguyenhoang@rmit.edu.vn
 Duy Dang-Pham, RMIT University, duy.dangphamthien@rmit.edu.vn
