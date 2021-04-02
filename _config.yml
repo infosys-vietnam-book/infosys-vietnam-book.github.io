@@ -33,8 +33,12 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
+header_pages:
+ - topics-of-interest.html
+ - important-dates.html 
+ - format.html
+ - submissions.html
+ - editors.html
 
 # Build settings
 theme: minima
