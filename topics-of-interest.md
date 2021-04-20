@@ -4,25 +4,20 @@ title: Topics of interest
 permalink: /topics-of-interest/
 ---
 
-Topics of interest include, but are by no means limited to:
+We welcome submission of relevant chapters to either of the following tracks:
 
-### Emerging Information Systems Research 
-- Emerging Management Information Systems  
-- Emerging Information Systems Applications 
-- Advances in Big Data and Applications 
-- Advances in Industry 4.0 and Smart City 
-- Blockchain and Applications 
-- Business Process Modelling and Applications 
-- New Frontiers of Information Systems in context of Vietnam 
+### Emerging information systems research
+Chapters in this track include both empirical and conceptual research on one or more of the topics listed below. Chapters that focus on the Vietnam context or provide a comparison between the Vietnam context and other countries are especially preferred. 
 
-### Information Systems Cases 
-- Case studies on how Vietnamese organisations respond to disruptive technologies  
-- Case studies and on IS usage on organisational activities 
-- Case studies and discussions on generational IS trends 
-- IS research comparing between the context of Vietnam and other countries 
+1. AI and Data Analytics
+2. Cybersecurity and Privacy
+3. Blockchain and Fintech
+4. Heathcare information systems
+5. Social media, digital and mobile commerce
+6. Digital transformation, digital business and innovation
+7. Information systems design and business process management
+8. e-Government and smart cities
+9. Other emerging topics in the information systems discipline
 
-### Digital Business and Transformation 
-- How new and emerging digital technologies/services/information systems challenge existing businesses in Vietnam 
-- Evaluating the impact of digital disruption on different functions in the organisations 
-- Exploring how new information systems support digital business/digital transformation 
-- Evaluation of how users accept or adapt to new information systems 
+### Information systems case studies
+These chapters present real-world case studies on information systems adoption by organizations in Vietnam, and especially how organizations respond to disruptive technologies that influence organizational activities and support new digital business models or digital transformation.
