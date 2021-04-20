@@ -4,4 +4,4 @@ title: Submissions
 permalink: /submissions/
 ---
 
-Templates to be updated.
+Submit chapters via EasyChair (to be updated)
