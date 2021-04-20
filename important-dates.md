@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Important Dates
+image: /assets/img/springer-logo.png
 permalink: /important-dates/
 ---
 
