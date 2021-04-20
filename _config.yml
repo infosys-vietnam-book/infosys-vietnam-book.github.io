@@ -24,7 +24,7 @@ description: > # this means to ignore newlines until "twitter_username:"
 #   instance: example.com
 
 # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
-masthead: ./assets/img/springer-logo.png
+masthead: ../assets/img/springer-logo.png
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
