@@ -3,7 +3,13 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-
+    
+    {%- if site.masthead -%}
+    <div cover-photo>
+      <img src="{{ site.masthead }}" alt="Springer logo" width=30% style="float: left" />
+    </div>
+    {%- endif -%}
+    
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if page_paths -%}
