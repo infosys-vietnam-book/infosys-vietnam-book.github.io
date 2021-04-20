@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page
 title: Topics of interest
+image: /assets/img/springer-logo.png
 permalink: /topics-of-interest/
 ---
 
@@ -14,7 +15,7 @@ Chapters in this track include both empirical and conceptual research on one or 
 3. Blockchain and Fintech
 4. Heathcare information systems
 5. Social media, digital and mobile commerce
-6. Digital transformation, digital business and innovation
+6. Digital business, digital transformation and innovation
 7. Information systems design and business process management
 8. e-Government and smart cities
 9. Other emerging topics in the information systems discipline
