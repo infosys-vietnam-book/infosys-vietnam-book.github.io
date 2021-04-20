@@ -7,7 +7,7 @@ permalink: /format/
 
 ### Abstract submission
 - Download the template [here]() (zip file, the template adapts Springer Template). 
-- The abstract should contain the following. 
+- The abstract should contain the following:
     - Title and list of author(s)
     - Introduction, including objectives and contributions of the research
     - Brief literature review
