@@ -7,6 +7,10 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+  {%- if site.masthead -%}
+    <img src="{{ site.masthead }}" alt="Springer logo" width=30% style="float: left" />
+  {%- endif -%}
+
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
