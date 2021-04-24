@@ -16,4 +16,6 @@ This book aims to provide a collection of advanced IS research, cases, and appli
 
 We welcome high quality submissions that focus on advanced IS research in the context of Vietnam, including cases, applications, the current frontiers and future IS directions, and how to ensure our research can be designed to meet the current IS research trends. 
 
-For inquiries, please send an email to the editors: Dr. Thuan Nguyen Hoang [thuan.nguyenhoang@rmit.edu.vn](thuan.nguyenhoang@rmit.edu.vn) or Dr. Duy Dang-Pham [duy.dangphamthien@rmit.edu.vn](duy.dangphamthien@rmit.edu.vn).
+For inquiries, please send an email to the editors:
+- Dr. Thuan Nguyen Hoang [thuan.nguyenhoang@rmit.edu.vn](thuan.nguyenhoang@rmit.edu.vn) 
+- Dr. Duy Dang-Pham [duy.dangphamthien@rmit.edu.vn](duy.dangphamthien@rmit.edu.vn).
