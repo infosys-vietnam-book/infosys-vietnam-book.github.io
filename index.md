@@ -15,3 +15,5 @@ The important role of Information Systems (IS) has been widely agreed by both ac
 This book aims to provide a collection of advanced IS research, cases, and applications in the context of Vietnam. It offers readers an overall picture in the IS field and access to practical IS applications. As a result, it supports not only Vietnamese academics yet international academics, who want to engage with the context of Vietnam. Readers can also compare the context of IS applications between Vietnam as a developing country and other developed countries. 
 
 We welcome high quality submissions that focus on advanced IS research in the context of Vietnam, including cases, applications, the current frontiers and future IS directions, and how to ensure our research can be designed to meet the current IS research trends. 
+
+For inquiries, please send an email to the editors: Dr. Thuan Nguyen Hoang [thuan.nguyenhoang@rmit.edu.vn](thuan.nguyenhoang@rmit.edu.vn) or Dr. Duy Dang-Pham [duy.dangphamthien@rmit.edu.vn](duy.dangphamthien@rmit.edu.vn).
