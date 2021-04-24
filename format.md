@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Format
-image: /assets/img/springer-logo.png
+image: ../assets/img/springer-logo.png
 permalink: /format/
 ---
 
 ### Abstract submission
-- Download the template [here]() (zip file, the template adapts Springer Template). 
+- Download the [abstract template](../assets/doc/Abstract_Template_splnproc1703.docm)
 - The abstract should contain the following:
     - Title and list of author(s)
     - Introduction, including objectives and contributions of the research
@@ -17,4 +17,4 @@ permalink: /format/
 - Access [EasyChair]() to upload your abstract
 
 ### Chapter submission
-Upon acceptance of the abstract, further instructions for submission guidelines according to the Springer will be communicated.
+Upon acceptance of the abstract, further instructions for submission guidelines will be communicated.

@@ -6,6 +6,8 @@ permalink: /submissions/
 ---
 
 - Check the [important dates](../important-dates/)
-- Download the template [here]() (zip file, the template adapts Springer Template)
-- Before submitting, please check [the abstract/chapter format]()
-- Access [EasyChair]() to upload your abstract/chapter
+- Submit the abstract of the chapter - please download the [abstract template](../assets/doc/Abstract_Template_splnproc1703.docm)
+- Access [EasyChair]() to submit your abstract
+- Upon acceptance of the abstract, further instructions for submission guidelines will be communicated
+
+Abstracts and chapters that do not follow the template will be automatically rejected. Compliant submissions will undergo a double-blind peer review process.
