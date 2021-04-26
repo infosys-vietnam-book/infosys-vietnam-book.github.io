@@ -21,4 +21,9 @@ Chapters in this track include both empirical and conceptual research on one or 
 9. Other emerging topics in the information systems discipline
 
 ### Information systems case studies
-These chapters present real-world case studies on information systems adoption by organizations in Vietnam, and especially how organizations respond to disruptive technologies that influence organizational activities and support new digital business models or digital transformation.
+These chapters present real-world case studies on information systems adoption by organizations in Vietnam:
+
+1. Demonstration of how digital technologies (e.g., artificial intelligence, blockchain, Internet of Things, virtual/augmented reality, robotic process automation) shape new business models and opportunities
+2. Application of digital technologies while accounting for organizational factors and the Vietnam context
+3. Examples of successful design and implementation of digital technologies
+4. Demonstration of successful digital transformation in Vietnam
