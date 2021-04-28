@@ -13,3 +13,9 @@ permalink: /editorial-board/
 
 # Editorial Board Members
 We are grateful for the support of colleagues and friends supporting this project on the editorial board.
+
+- David Johnstone, Victoria University of Wellington, New Zealand 
+- Mathews Nkhoma, RMIT University, Vietnam 
+- Paul Yeow, RMIT University, Vietnam 
+- Pedro Antunes, University of Lisbon, Portugal 
+- Robert McClelland, RMIT University, Vietnam 
