@@ -14,7 +14,7 @@ permalink: /format/
     - Methodology/Method 
     - Results or anticipated results 
     - References are not included in the word count
-- Access [EasyChair]() to upload your abstract
+- Access [EasyChair](https://easychair.org/conferences/?conf=2021isresearchvietnam) to upload your abstract
 
 ### Chapter submission
 Upon acceptance of the abstract, further instructions for submission guidelines will be communicated.
