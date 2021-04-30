@@ -5,6 +5,8 @@ description: >
 
 # this means to ignore newlines until "twitter_username:"
 
+google_analytics: UA-80767582-3
+
 # social links
 # twitter_username: jekyllrb
 # github_username:  jekyll
