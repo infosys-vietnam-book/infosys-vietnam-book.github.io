@@ -45,6 +45,7 @@ header_pages:
  - format.md
  - submissions.md
  - editorial-board.md
+ - first-volume.md
 
 # Build settings
 theme: minima

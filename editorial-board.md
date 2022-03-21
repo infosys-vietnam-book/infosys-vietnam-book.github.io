@@ -12,14 +12,4 @@ permalink: /editorial-board/
 - **Tuan Q. Phan**, The University of Hong Kong, tphan@hku.hk
 
 # Editorial Board Members
-We are grateful for the support of colleagues and friends supporting this project on the editorial board.
-
-- David Johnstone, Victoria University of Wellington, New Zealand 
-- Khoa Bui Thanh, Industrial University of Ho Chi Minh City, Vietnam
-- Mathews Nkhoma, RMIT University, Vietnam 
-- Paul Yeow, RMIT University, Vietnam 
-- Pedro Antunes, University of Lisbon, Portugal 
-- Pham Cong Hiep, RMIT University, Vietnam 
-- Robert McClelland, RMIT University, Vietnam 
-- Prasanta Bhattachara, National University of Singapore, Singapore
-- Sapumal Ahangama, Moratuwa University, Sri Lanka
+- To be updated
