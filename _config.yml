@@ -42,8 +42,7 @@ minima:
 header_pages:
  - topics-of-interest.md
  - important-dates.md 
- - format.md
- - submissions.md
+ - submission-guidelines.md
  - editorial-board.md
  - first-volume.md
 

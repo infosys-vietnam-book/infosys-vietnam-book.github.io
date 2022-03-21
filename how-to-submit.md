@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Submissions
+title: Submission guidelines
 image: /assets/img/springer-logo.png
-permalink: /submissions/
+permalink: /submission-guidelines/
 ---
 
 ### Abstract submission
