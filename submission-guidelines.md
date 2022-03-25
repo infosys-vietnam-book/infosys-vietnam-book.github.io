@@ -20,7 +20,7 @@ permalink: /submission-guidelines/
     </li>
 </ul>
 
-Access <a href="https://easychair.org/conferences/?conf=isresearchvietnamboo0" target="\_blank">EasyChair</a> to upload your abstract
+Go to <a href="https://easychair.org/conferences/?conf=isresearchvietnamboo0" target="\_blank">EasyChair</a> to upload your abstract.
 
 ### Chapter submission
 Upon acceptance of the abstract, further instructions for submission guidelines according to the Springer will be communicated.
