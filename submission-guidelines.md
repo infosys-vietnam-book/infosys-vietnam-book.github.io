@@ -7,7 +7,7 @@ permalink: /submission-guidelines/
 
 ### Abstract submission
 <ul>
-    <li>Download the template here, or zip file (the template adapts Springer Template).</li>
+    <li>Download the <a href="https://www.dropbox.com/sh/p4rth5fhr5fnbwu/AACYGXcQwe7whwtoDPH1JttZa?dl=0" target="\_blank">template here</a>, or <a href="https://www.dropbox.com/s/23w6zrwfse5y4cj/Chapter%20Templates.zip?dl=0" target="\_blank">zip file</a> (the template adapts Springer Template).</li>
     <li>The abstract should contain the following sections:
         <ul>
             <li>Title and list of author(s)</li>
