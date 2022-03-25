@@ -14,7 +14,7 @@ permalink: /submission-guidelines/
 -- Methodology/Method 
 -- Results or anticipated results 
 -- References are not included in the word count
-- Access EasyChair [to be updated] to upload your abstract
+- Access <a href="https://easychair.org/conferences/?conf=isresearchvietnamboo0" target="\_blank">EasyChair</a> to upload your abstract
 
 ### Chapter submission
 Upon acceptance of the abstract, further instructions for submission guidelines according to the Springer will be communicated.
