@@ -28,7 +28,7 @@ Abstracts and chapters that do not follow the template will be automatically rej
 <ul>
     <li>Prepare a full chapter in PDF using Springer format (template <a href="https://www.dropbox.com/sh/p4rth5fhr5fnbwu/AACYGXcQwe7whwtoDPH1JttZa?dl=0" target="\_blank">here</a>, or <a href="https://www.dropbox.com/s/23w6zrwfse5y4cj/Chapter%20Templates.zip?dl=0" target="\_blank">zip file</a>).</li>
     <li>Chapter must be from 10 to 14 pages in Springer format</li>
-    <li>Due date for chapter submission: **1st November 2022**</li>
+    <li>Due date for chapter submission: <b>1st November 2022</b></li>
     <li>Access <a href="https://easychair.org/conferences/?conf=isresearchvietnamboo0" target="\_blank">EasyChair</a></li>
     <ul>
         <li>If you already submitted your abstract</li>
