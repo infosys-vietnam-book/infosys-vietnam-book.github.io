@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Second Volume
+title: Second volume
 image: /assets/img/springer-logo.png
 permalink: /second-volume/
 ---

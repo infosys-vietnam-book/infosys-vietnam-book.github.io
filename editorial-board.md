@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Editorial Board
+title: Editorial board
 image: /assets/img/springer-logo.png
 permalink: /editorial-board/
 ---

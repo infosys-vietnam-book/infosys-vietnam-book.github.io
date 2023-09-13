@@ -1,6 +1,6 @@
 ---
 layout: page
-title: First Volume
+title: First volume
 image: /assets/img/springer-logo.png
 permalink: /first-volume/
 ---
