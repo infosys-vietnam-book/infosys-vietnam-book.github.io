@@ -7,9 +7,9 @@ permalink: /first-volume/
 
 The first volume of the Information Systems Research in Vietnam book contains a total of 10 chapters.
 
-Link to the online book: <a href=https://link.springer.com/book/10.1007/978-981-19-3804-7>
+Link to the online book: [https://link.springer.com/book/10.1007/978-981-19-3804-7]
 
-# Chapters of the Information Systems Research in Vietnam (Volume 1):
+## Chapters of the Information Systems Research in Vietnam (Volume 1):
 **Introduction to Information Systems Research in Vietnam: A Shared Vision**
 Nguyen Hoang Thuan, Duy Dang-Pham, Hoanh-Su Le, Prasanta Bhattacharya, Tuan Q. Phan
 Pages 1-16
