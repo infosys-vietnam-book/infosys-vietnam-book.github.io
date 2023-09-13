@@ -7,7 +7,7 @@ permalink: /first-volume/
 
 The first volume of the Information Systems Research in Vietnam book contains a total of 10 chapters.
 
-Link to the online book: [https://link.springer.com/book/10.1007/978-981-19-3804-7][website]
+Link to the online book: <https://link.springer.com/book/10.1007/978-981-19-3804-7>
 
 ## Chapters of the Information Systems Research in Vietnam (Volume 1):
 **Introduction to Information Systems Research in Vietnam: A Shared Vision**
