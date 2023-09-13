@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Call for Chapters
+title: Information Systems Research in Vietnam Book
 image: /assets/img/springer-logo.png
 ---
 
