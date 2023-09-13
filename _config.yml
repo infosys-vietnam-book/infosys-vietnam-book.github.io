@@ -1,4 +1,4 @@
-title: Information Systems Research in Vietnam Book (Second Volume)
+title: Information Systems Research in Vietnam Book
 author: Duy Dang-Pham
 email: duy.dangphamthien@rmit.edu.vn
 description: >
@@ -45,6 +45,7 @@ header_pages:
  - submission-guidelines.md
  - editorial-board.md
  - first-volume.md
+ - second-volume.md
 
 # Build settings
 theme: minima
