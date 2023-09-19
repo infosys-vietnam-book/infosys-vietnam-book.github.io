@@ -20,7 +20,7 @@ permalink: /submission-guidelines/
     </li>
 </ul>
 
-Go to <a href="https://easychair.org/conferences/?conf=isresearchvietnamboo0" target="\_blank">EasyChair</a> to upload your abstract.
+Go to <a href="https://easychair.org/my/conference?conf=isresearchvietnamboo1" target="\_blank">EasyChair</a> to upload your abstract.
 
 Abstracts and chapters that do not follow the template will be automatically rejected. Compliant submissions will undergo a blind peer review process.
 
@@ -29,7 +29,7 @@ Abstracts and chapters that do not follow the template will be automatically rej
     <li>Prepare a full chapter in PDF using Springer format (template <a href="https://www.dropbox.com/sh/p4rth5fhr5fnbwu/AACYGXcQwe7whwtoDPH1JttZa?dl=0" target="\_blank">here</a>, or <a href="https://www.dropbox.com/s/23w6zrwfse5y4cj/Chapter%20Templates.zip?dl=0" target="\_blank">zip file</a>).</li>
     <li>Chapter must be from 10 to 14 pages in Springer format</li>
     <li>Due date for chapter submission: <b>28 February 2023</b></li>
-    <li>Access <a href="https://easychair.org/conferences/?conf=isresearchvietnamboo0" target="\_blank">EasyChair</a></li>
+    <li>Access <a href="https://easychair.org/my/conference?conf=isresearchvietnamboo1" target="\_blank">EasyChair</a></li>
     <ul>
         <li>If you already submitted your abstract</li>
         <ul>
@@ -43,6 +43,6 @@ Abstracts and chapters that do not follow the template will be automatically rej
         </ul>
     </ul>
     <li>Originality: Submitted chapter must be original, unpublished work not previously published in a journal or conference, nor currently under review or consideration for publication elsewhere</li>
-    <li>As all chapters will be blind peer-reviewed, chapter submitted MUST NOT contain any information on the author(s) and affiliations)). Chapters submitted for review not being anonymous will be rejected without review.</li>
+    <li>As all chapters will be blind peer-reviewed, chapter submitted MUST NOT contain any information on the author(s) and affiliations. Chapters submitted for review not being anonymous will be rejected without review.</li>
     <li>Based on the peer reviews, Acceptance and Rejection decisions will be finalized by the Editors</li>
 </ul>
