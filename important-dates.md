@@ -5,7 +5,7 @@ image: /assets/img/springer-logo.png
 permalink: /important-dates/
 ---
 
-- ~**Abstract submission (500 words; recommended):** 1 November 2023~
+- ~~**Abstract submission (500 words; recommended):** 1 November 2023~~
     - **Workshop(s) for helping authors to develop book chapters:** To be confirmed
 - **Chapter submission:** 19 February 2024
 - **Chapter notification:** 30 March 2024
